@@ -219,3 +219,4 @@ Devi Ahilya Vishwavidyalaya (DAVV), Indore, India
 ---
 
 *This project is intended for bioinformatics learning and technical demonstration. Reported variants should be interpreted only after appropriate quality control and validation.*
+# E-coli-NGS-Variant-Analysis
