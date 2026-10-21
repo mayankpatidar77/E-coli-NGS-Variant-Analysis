@@ -87,6 +87,7 @@ These are results from the current analysis run, not universal performance bench
 
 ## Repository Structure
 
+```text
 E-coli-NGS-Variant-Analysis/
 ├── README.md
 ├── environment.yml
@@ -118,6 +119,7 @@ E-coli-NGS-Variant-Analysis/
 └── setup/
     ├── README.md
     └── check_snpeff_db.sh
+```
 
 The repository contains pipeline scripts and documentation. **Sequencing data, reference files, and actual analysis outputs are maintained separately** in the local workspace:
 
