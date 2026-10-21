@@ -1,0 +1,43 @@
+# Sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Variant files and indexes
+*.vcf
+*.vcf.gz
+*.bcf
+*.csi
+*.tbi
+
+# Reference indexes
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+*.fai
+
+# Generated reports
+*_fastqc.html
+*_fastqc.zip
+*.fastp.html
+*.fastp.json
+
+# Logs (keep documentation, not run-specific logs)
+logs/*.log
+
+# SnpEff database files
+snpeff_data/
+
+# Python cache
+__pycache__/
+*.pyc

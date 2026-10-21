@@ -1,0 +1,17 @@
+name: ngs
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.11
+  - fastqc=0.12.1
+  - fastp=1.0.1
+  - bwa=0.7.19
+  - samtools=1.21
+  - bcftools=1.22
+  - snpeff=5.4.0c
+  - openjdk
+
